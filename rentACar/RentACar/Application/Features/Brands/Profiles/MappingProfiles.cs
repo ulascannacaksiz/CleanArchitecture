@@ -3,6 +3,7 @@ using Application.Features.Brands.Commands.Delete;
 using Application.Features.Brands.Commands.Update;
 using Application.Features.Brands.Queries.GetById;
 using Application.Features.Brands.Queries.GetList;
+using Application.Features.Models.Queries.GetListByDynamic;
 using AutoMapper;
 using Core.Application.Repsonses;
 using Core.Persistence.Paging;
